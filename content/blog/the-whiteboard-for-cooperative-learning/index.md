@@ -4,9 +4,8 @@ slug: the-whiteboard-for-cooperative-learning
 author: Vibe Team
 date: '2020-05-11'
 tags:
-- cooperative learning
-- interactive whiteboard
-- the whiteboard
+- Cooperative Learning
+- Interactive Whiteboard
 draft: false
 isfeatured: false
 description: "Use Vibe\u2019s digital whiteboard in the classroom to express ideas and concepts. Vibe smart boards are ideal\

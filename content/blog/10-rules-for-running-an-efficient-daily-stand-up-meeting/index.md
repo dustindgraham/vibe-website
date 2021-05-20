@@ -4,9 +4,9 @@ slug: 10-rules-for-running-an-efficient-daily-stand-up-meeting
 author: Megan Snyder
 date: '2020-04-17'
 tags:
-- huddle
-- meetings
-- stand-up
+- Huddle
+- Meetings
+- Stand-up
 draft: false
 isfeatured: false
 description: "Any workplace can say they\u2019re agile. You can start right now by reviewing these strategies for simplifying\
@@ -73,7 +73,7 @@ What happens at the meeting doesn’t just stay at the meeting. You want to use 
 
 ## Bonus: Include Vibe as part of your stand-up meetings.
 
-No one said your daily sync had to be dull. Make stand-up meetings more dynamic by using the Vibe board. You can easily share the day’s agenda to a team board, take notes for the team to review, and video conference with workers who aren’t in the office. Adding an engaging visual element keeps the team’s energy up and provides a clear plan to start the day. 
+No one said your daily sync had to be dull. Make stand-up meetings more dynamic by using the Vibe board. You can easily share the day’s agenda to a team board, take notes for the team to review, and video conference with workers who aren’t in the office. Adding an engaging visual element keeps the team’s energy up and provides a clear plan to start the day.
 
 {{< common/srcset "image-4.jpg" "Team stand up meeting" >}}
 
